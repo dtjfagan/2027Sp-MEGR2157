@@ -49,3 +49,22 @@ body {
 .md-nav__item .md-nav__link--active {
   color: #ffd54f;
 }
+
+/* Gold links in page content (overrides Material's theme link color) */
+.md-typeset a {
+  color: #ffd54f;
+}
+.md-typeset a:hover,
+.md-typeset a:focus {
+  color: #fff59d;
+}
+
+/* Tables: dark green panel instead of solid black */
+.md-typeset table:not([class]) {
+  background: rgba(0, 40, 26, 0.85);
+  border: 1px solid rgba(255, 255, 255, 0.25);
+}
+.md-typeset table:not([class]) th {
+  background: #005035;
+  color: #ffffff;
+}
