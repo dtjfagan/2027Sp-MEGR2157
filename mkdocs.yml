@@ -16,16 +16,20 @@ extra_css:
 
 nav:
   - Home: index.md
-  - Portfolio Overview: portfolio-overview.md
-  - Assignments:
-      - A1: assignments/A01/index.md
-      - A2: assignments/A02/index.md
-      - A3: assignments/A03/index.md
-      - A4: assignments/A04/index.md
-      - A5: assignments/A05/index.md
-      - A6: assignments/A06/index.md
-      - A7: assignments/A07/index.md
-      - A8: assignments/A08/index.md
-      - A9: assignments/A09/index.md
-      - A10: assignments/A10/index.md
-      - A11: assignments/A11/index.md
+  - Weeks:
+      - "Week 1: Introduction": weeks/week-01-introduction/index.md
+      - "Week 2: Design for Fundamental Stresses": weeks/week-02-design-for-fundamental-stresses/index.md
+      - "Week 3: Parametric Design and FEA": weeks/week-03-parametric-design-and-fea/index.md
+      - "Week 4: Bending Stress and Stiffness": weeks/week-04-bending-stress-and-stiffness/index.md
+      - "Week 5: Fits": weeks/week-05-fits/index.md
+      - "Week 6: Drawings Part 1": weeks/week-06-drawings-part-1/index.md
+      - "Week 7: Drawings Part 2": weeks/week-07-drawings-part-2/index.md
+      - "Week 8: Midterm": weeks/week-08-midterm/index.md
+      - "Week 9: Finite Element Analysis": weeks/week-09-finite-element-analysis/index.md
+      - "Week 10: Gears": weeks/week-10-gears/index.md
+      - "Week 11: Pulleys": weeks/week-11-pulleys/index.md
+      - "Week 12: Lead Screw": weeks/week-12-lead-screw/index.md
+      - "Week 13: Motor Selection": weeks/week-13-motor-selection/index.md
+      - "Week 14: Engineering Disasters": weeks/week-14-engineering-disasters/index.md
+      - "Week 15: Awards and Guest Speakers": weeks/week-15-awards-and-guest-speakers/index.md
+      - Final Exam: weeks/final-exam/index.md
