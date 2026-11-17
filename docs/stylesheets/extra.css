@@ -1,0 +1,45 @@
+/* Isometric grid background with high-contrast text */
+[data-md-color-scheme="slate"] {
+  --md-default-bg-color: #000000;
+  --md-default-fg-color: #ffffff;
+  --md-default-fg-color--light: #f0f0f0;
+  --md-default-fg-color--lighter: #cccccc;
+  --md-typeset-color: #ffffff;
+  --md-typeset-a-color: #69f0ae;   /* bright green links */
+  --md-accent-fg-color: #b9f6ca;   /* link hover */
+}
+
+body {
+  background: #000000 url("../assets/images/grid-bg.png") repeat;
+}
+
+.md-main,
+.md-container {
+  background: transparent;
+}
+
+/* Dark halo keeps text legible where it crosses grid lines */
+.md-typeset,
+.md-nav {
+  text-shadow: 0 0 3px #000, 0 0 3px #000;
+}
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3 {
+  color: #ffffff;
+  font-weight: 700;
+}
+
+/* Semi-transparent panel behind the main content column */
+.md-content__inner {
+  background: rgba(0, 0, 0, 0.85);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  border-radius: 8px;
+  padding: 1.2rem 1.6rem 1.6rem;
+  margin-top: 1.2rem;
+}
+
+.md-content__inner > :first-child {
+  margin-top: 0;
+}
