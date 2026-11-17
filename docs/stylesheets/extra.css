@@ -5,17 +5,24 @@
   --md-default-fg-color--light: #f0f0f0;
   --md-default-fg-color--lighter: #cccccc;
   --md-typeset-color: #ffffff;
-  --md-typeset-a-color: #69f0ae;   /* bright green links */
-  --md-accent-fg-color: #b9f6ca;   /* link hover */
+  --md-typeset-a-color: #ffd54f;   /* gold links (contrast on green) */
+  --md-accent-fg-color: #fff59d;   /* link hover */
+  --md-primary-fg-color: #005035;          /* header bar */
+  --md-primary-fg-color--light: #1a6b4f;
+  --md-primary-fg-color--dark: #003b27;
 }
 
 body {
   background: #000000 url("../assets/images/grid-bg.png") repeat;
 }
 
-.md-main,
+/* 65% green (#005035) layer over the grid across the whole page */
 .md-container {
   background: transparent;
+}
+
+.md-main {
+  background: rgba(0, 80, 53, 0.65);   /* #005035 at 65% */
 }
 
 /* Dark halo keeps text legible where it crosses grid lines */
@@ -31,15 +38,14 @@ body {
   font-weight: 700;
 }
 
-/* Semi-transparent panel behind the main content column */
-.md-content__inner {
-  background: rgba(0, 0, 0, 0.85);
-  border: 1px solid rgba(255, 255, 255, 0.15);
-  border-radius: 8px;
-  padding: 1.2rem 1.6rem 1.6rem;
-  margin-top: 1.2rem;
+/* Remove black boxes behind sidebar titles */
+.md-nav__title {
+  background: transparent !important;
+  box-shadow: none !important;
 }
 
-.md-content__inner > :first-child {
-  margin-top: 0;
+/* Current page in the menus: gold so it stands out on green */
+.md-nav__link--active,
+.md-nav__item .md-nav__link--active {
+  color: #ffd54f;
 }
