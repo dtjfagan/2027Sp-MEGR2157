@@ -1,5 +1,7 @@
 # Week 1: Introduction
 
+<div class="section-box" markdown>
+
 ## Agenda
 
 Lab is for three hours/week.
@@ -17,7 +19,15 @@ Lecture is for ~ one hour and fifteen minutes/week.
         - Assignments
         - Exam Preps
 
+</div>
+
+<div class="section-box" markdown>
+
 ## Lecture
+
+</div>
+
+<div class="section-box" markdown>
 
 ## Assignment
 
@@ -129,3 +139,5 @@ Students will be graded on the specificity and rigor of their engineering reason
 | Part 3: Communicate | 15% | About Me section with professional introduction and "defend a decision" response |
 
 Students do not receive grade points for time spent. Time is tracked so you can reflect on where your effort went — it is part of building professional self-awareness, not a performance metric.
+
+</div>
