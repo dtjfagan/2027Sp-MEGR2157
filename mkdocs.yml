@@ -34,7 +34,7 @@ nav:
       - "Week 15: Awards and Guest Speakers": weeks/week-15-awards-and-guest-speakers/index.md
       - Final Exam: weeks/final-exam/index.md
   - Staff:
-      - "Terence J Fagan (Professor)": staff/terence-fagan/index.md
+      - "Terence J Fagan (Professor)": https://dtjfagan.github.io/LecturesbyFagan/aboutme/
       - "Patrick Brennan": staff/patrick-brennan/index.md
       - "Ronnie Sahni": staff/ronnie-sahni/index.md
       - "Brennan Hugo": staff/brennan-hugo/index.md

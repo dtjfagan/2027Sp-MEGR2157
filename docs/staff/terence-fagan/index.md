@@ -1,3 +1,0 @@
-# Terence J Fagan
-
-**Professor**
