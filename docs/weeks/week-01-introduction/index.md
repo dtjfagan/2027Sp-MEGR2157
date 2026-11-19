@@ -8,10 +8,9 @@ Lecture is for ~ one hour and fifteen minutes/week.
 
 ### Introduction
 
-- Professor: Terence J Fagan
-    - [About](https://instructure.charlotte.edu/courses/272052/files/34030251?wrap=1)
-- Teaching Assistants
-    - [Patrick Brennan](https://www.linkedin.com/in/patrick-brennan-450606298/) | Ronnie Sahni | [Brennan Hugo](https://www.linkedin.com/in/brennan-hugo/) | [Stephen Bodnar](https://www.linkedin.com/in/stephen-bodnar-ba222a330/) | [Luca Multari](https://www.linkedin.com/in/lsmultari/) | [Kenny Acosta](https://www.linkedin.com/in/kenny-acosta-71a261270/)
+- Staff
+    - [Terence J Fagan (Professor)](https://dtjfagan.github.io/LecturesbyFagan/aboutme/)
+    - Teaching Assistants: [Patrick Brennan](../../staff/patrick-brennan/index.md) | [Ronnie Sahni](../../staff/ronnie-sahni/index.md) | [Brennan Hugo](../../staff/brennan-hugo/index.md) | [Stephen Bodnar](../../staff/stephen-bodnar/index.md) | [Luca Multari](../../staff/luca-multari/index.md) | [Kenny Acosta](../../staff/kenny-acosta/index.md)
 - [First Day Activity: Syllabus Questions](https://instructure.charlotte.edu/courses/272052/assignments/2902680)
 - Course Structure and Canvas Layout
     - Modules: Weekly topics
