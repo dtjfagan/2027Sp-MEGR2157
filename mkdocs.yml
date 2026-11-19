@@ -4,9 +4,8 @@ site_description: Sophomore Design Lecture Repo for lectures and assignments.
 theme:
   name: material
   palette:
-    scheme: slate
-    primary: green
-    accent: light green
+    primary: custom
+    accent: custom
   features:
     - navigation.instant
     - navigation.tracking
