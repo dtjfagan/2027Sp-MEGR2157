@@ -8,7 +8,8 @@ Lecture is for ~ one hour and fifteen minutes/week.
 
 ### Introduction
 
-- Staff- [First Day Activity: Syllabus Questions](https://instructure.charlotte.edu/courses/272052/assignments/2902680)
+- Staff
+- [First Day Activity: Syllabus Questions](https://instructure.charlotte.edu/courses/272052/assignments/2902680)
 - Course Structure and Canvas Layout
     - Modules: Weekly topics
         - Agenda
